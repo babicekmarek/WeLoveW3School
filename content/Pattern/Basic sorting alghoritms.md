@@ -5,7 +5,7 @@ Jednoduché řadící algoritmy slouží k tomu, abychom seřadili prvky a násl
 
 Buble sort (probublávání): Funguje na principu porovnávání dvou sousedících prvků a vždy se snaží dostat ten nejmenší doleva. Není příliš efektivní, a tak se používá spíše pro uvedení do problematiky algoritmů. Pokud je pole setřízené, tak je řadící náročnost n=1, ale největší časová náročnost je n=n$^2$. Výhoda, jednoduchý na pochopení, ale nevýhodou je vysoká časová náročnost.
 
-![](1.webp)
+![](content/Pattern/1.webp)
 
 ``` Python
 
@@ -80,7 +80,7 @@ for i in range(len(A)):
 
 Insert sort, u tohoto řadící algoritmu se pole dělí na setříděný a nesetříděný úsek. Na začátku je setříděný úsek tvořen pouze prvním prvkem. Postupně se pole prochází a prvky se řadí. Nejmenší možný počet opakování n=n a největší časová náročnost je n=n$^2$.
 
-![](Insertion-Sort.webp)
+![](content/Pattern/Insertion-Sort.webp)
 
 
 ``` Python 

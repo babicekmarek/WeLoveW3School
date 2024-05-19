@@ -61,4 +61,4 @@ střediska. Bude evidovat tyto informace:
 OOP, javaScript II, ...)
 • Lidech přihlášených na tato školení
 
-![](mysql.png)
+![](content/Pattern/mysql.png)

@@ -1,11 +1,10 @@
 ---
 title: Welcome to WeLoveW3School
 ---
-# Learn to Code
-
-### With the world's largest web developer site.
-
-#### [Not Sure Where To Begin?](https://www.w3schools.com/where_to_start.asp)
+> [!info]
+> # Learn to Code
+> ### With the world's largest web developer site.
+> #### [Not Sure Where To Begin?](https://www.w3schools.com/where_to_start.asp)
 
 ------------------
 
